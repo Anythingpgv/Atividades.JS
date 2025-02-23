@@ -1,0 +1,10 @@
+let senha = prompt("Escolha a palavra destinada a se torna sua nova senha")
+
+let nvsenha = senha.trim()
+    .replace("a", "@") 
+    .replace("i", "1") 
+    .replace ("o", "0");
+               
+alert(`sua nova senha é: ${nvsenha}.`)
+
+console.log(`${nvsenha}`)
