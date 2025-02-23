@@ -1,0 +1,16 @@
+ let chute = Number(prompt("dê seu melhor chute!"))
+
+ let dado = Math.floor(Math.random() * 6) + 1
+
+ console.log(`${dado}`)
+//Math.floor foi usado para garantir que o número gerado será inteiro.
+//Math.random() gera um número de 0 a 1. por isso usamos: * 6 + 1. Para ajustar o resultado para 1 a 6.
+
+if (chute === dado) 
+{
+    alert(`Parabéns! Océ acertou! (${dado})`)
+}
+else 
+{
+    alert(`Errou, o número sorteado foi ${dado}`)
+}
