@@ -1,0 +1,25 @@
+let player1 = Number(prompt("Dê seu melhor lance!"))
+
+let player2 = Number(prompt("Sua vez, desafiante!"))
+
+let dado = Math.floor(Math.random() * 6) + 1
+//Math.abs
+
+alert(`O número sorteado foi ${dado}!`)
+
+let diffplayer1 = Math.abs(player1 - dado)
+let diffplayer2 = Math.abs(player2 - dado)
+
+if (diffplayer1 < diffplayer2) {
+
+    alert(`Jogador 1 ganhou! Com a diferença de ${diffplayer1}.`)
+
+}
+
+else if (diffplayer1 > diffplayer2) {
+    alert(`Jogador 2 é o vencedor! Com a diferença de ${diffplayer2}!`)
+}
+
+else { 
+     alert(`Que conexão incrível! Um empate. Ambos chegaram bem proximos de ${dado} com a diferença de ${diffplayer1}`)
+}
