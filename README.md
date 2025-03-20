@@ -8,7 +8,6 @@ O curso tem como objetivo ensinar conceitos fundamentais e avançados de JavaScr
 🗂️ Estrutura do Repositório
 Cada pasta está organizada por data ou tópico abordado, contendo:
 
-✅ Descrição da atividade
 ✅ Código-fonte
 ✅ Comentários explicativos
 ✅ Possíveis melhorias ou exercícios extras
@@ -23,4 +22,4 @@ JavaScript
 Este repositório foi criado para fins educacionais e pessoais, mas sugestões de melhorias e novas ideias são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou um pull request.
 
 📧 Contato
-Dúvidas ou sugestões? Entre em contato comigo através do aryelchristian102@gmail.com
+Dúvidas ou sugestões? Entre em contato comigo através do email: aryelchristian102@gmail.com
