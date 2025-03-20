@@ -22,7 +22,9 @@ As atividades serão adicionadas semanalmente, conforme o andamento do curso. Fi
 JavaScript
 
 🤝 Contribuição
+
 Este repositório foi criado para fins educacionais e pessoais, mas sugestões de melhorias e novas ideias são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou um pull request.
 
 📧 Contato
+
 Dúvidas ou sugestões? Entre em contato comigo através do email: aryelchristian102@gmail.com
