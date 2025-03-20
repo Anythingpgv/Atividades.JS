@@ -9,13 +9,16 @@ O curso tem como objetivo ensinar conceitos fundamentais e avançados de JavaScr
 Cada pasta está organizada por data ou tópico abordado, contendo:
 
 ✅ Código-fonte
+
 ✅ Comentários explicativos
+
 ✅ Possíveis melhorias ou exercícios extras
 
 📅 Atualizações
 As atividades serão adicionadas semanalmente, conforme o andamento do curso. Fique à vontade para acompanhar e praticar junto!
 
 📌 Tecnologias Utilizadas
+
 JavaScript
 
 🤝 Contribuição
