@@ -1,0 +1,38 @@
+//calculadora simples (+, -, *, /, %.)
+
+let X = Number(prompt("Num 1"))
+let Y = Number(prompt("Num 2"))
+let operação = prompt("Escolha a operação... (apenas: +, -, *, /, %).")
+
+
+function calcular(X, Y, operação) {
+    if(!isNaN(X) &&  X !== null && !isNaN(Y) && Y !== null) {
+        switch(operação){
+            case "+": 
+                return X + Y
+
+            case "-": 
+                return X - Y
+
+            case "*": 
+                return X * Y
+        
+            case "/": 
+                if (Y == 0  || X == 0) return "Error: divisão por zero" 
+                else return X / Y  
+        
+            case "%": 
+                if (Y == 0 || X == 0 ) return "Error: divisão por zero" 
+                else return X % Y 
+
+            default: 
+                return "Não é possível efetuar o calculo sem a operação correta"
+        }
+    }
+    else {
+        return "Apenas números!"
+    } 
+}
+
+
+calcular(X, Y, operação)
