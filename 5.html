@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 5</title>
+</head>
+<body>
+    <ul>
+        <li class="item">Item 1</li>
+        <li class="item">Item 2</li>
+        <li class="item">Item 3</li>
+    </ul>
+    <button onclick="destacarItens()">Destacar</button>
+
+    <script>
+        function destacarItens() {
+            let destcr = document.querySelectorAll(".item")
+            destcr.forEach(item => item.style.background = "yellow" )
+            
+        }
+    </script>
+</body>
+</html>
