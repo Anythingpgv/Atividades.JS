@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 1</title>
+</head>
+<body>
+    <button onclick="functionInline()">Clique (Inline)</button>
+    <button id="btn2">Clique (`onclick`)</button>
+    <button id="btn3">Clique (`addEventListener`)</button>
+
+    <script>
+        function functionInline() { alert("aula vaga")}
+    let btn2 = document.getElementById("btn2")
+    btn2.onclick = function onclick() { alert("Acesso negado!")}
+
+    let btn3 = document.getElementById("btn3")
+    btn3.addEventListener("click", function(){ 
+        alert("Botão clicado!")
+    })
+
+    </script>
+</body>
+</html>
