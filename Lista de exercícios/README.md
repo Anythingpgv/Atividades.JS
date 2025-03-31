@@ -8,6 +8,7 @@ Todos os códigos foram desenvolvidos utilizando um dispositivo móvel, o que po
 Os exercícios estão organizados e seguem os enunciados propostos na lista de execicíos do professor Nicollas
 
 🛠 Tecnologias Utilizadas
+
 JavaScript
 
 Editor de Códigos
