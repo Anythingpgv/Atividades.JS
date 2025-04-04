@@ -16,7 +16,8 @@ JavaScript
 
 Editor de Códigos (link para download: https://play.google.com/store/apps/details?id=com.rhmsoft.code&hl=pt_BR)
 
-📌 Observações
+📌 Observações!
+
 A resolução das questões foi feita sem um ambiente de desenvolvimento completo, o que pode impactar a revisão e testes do código.
 
 Sugestões de melhorias são bem-vindas.
