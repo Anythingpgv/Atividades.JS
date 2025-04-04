@@ -14,7 +14,7 @@ Os exercícios estão organizados e seguem os enunciados propostos na lista de e
 
 JavaScript
 
-Editor de Códigos (link para dowload: https://play.google.com/store/apps/details?id=com.rhmsoft.code&hl=pt_BR)
+Editor de Códigos (link para download: https://play.google.com/store/apps/details?id=com.rhmsoft.code&hl=pt_BR)
 
 📌 Observações
 A resolução das questões foi feita sem um ambiente de desenvolvimento completo, o que pode impactar a revisão e testes do código.
