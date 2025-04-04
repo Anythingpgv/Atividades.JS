@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    text-align: center; font-family: Arial, Helvetica, sans-serif; color: #006aff; background-color: rgb(49, 44, 44);
+}
+.container {
+    margin: auto;
+    width: 50%;
+}
+img {
+    width: 180px;
+    margin: 100px;
+}
