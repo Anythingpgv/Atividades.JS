@@ -1,6 +1,6 @@
 📌 Lista de Exercícios
 
-Este repositório contém a resolução de uma lista de exercícios em JavaScript.
+Esta pasta contém a resolução de uma lista de exercícios em JavaScript.
 
 ⚠️ Aviso Importante
 
